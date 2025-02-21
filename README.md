@@ -43,6 +43,7 @@ Now, open **http://localhost:3000** in your browser! 🎉
 
 ## **📺 Demo Video**  
 🎥 **For a full demonstration, check out the attached video!**  
+https://drive.google.com/file/d/1XcUY6sBVOxlYA-RyB1UPh4EvCTclY3UP/view?usp=sharing
 
 ---
 
